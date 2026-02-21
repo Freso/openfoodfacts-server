@@ -103,7 +103,7 @@ stopwords:de: und, mit, von
 # default_nutrition_as_sold_per:en: 100g (possible values: 100g, 100ml, 1kg)
 # default_nutrition_prepared_per:en: 100ml (e.g. for dehydrated beverages)
 
-# In European Union food of animal origin must be tagged by a packaging code (a number in a circle). 
+# In European Union food of animal origin must be tagged by a packaging code (a number in a circle).
 # The followig tag is added to food of animal origin:
 # food_of_animal_origin:en: yes
 
@@ -73249,6 +73249,7 @@ ciqual_food_name:fr: Coriandre, graine
 < en:Aromatic herbs
 en: Dill
 bg: Копър
+da: Dild
 de: Dill
 es: Eneldo
 fi: Tilli
@@ -73259,6 +73260,7 @@ la: Anethum graveolens
 lt: Krapai
 nl: Dille
 pl: Koper ogrodowy, Koperek, Koper
+sv: Dill
 zh: 莳萝
 agribalyse_proxy_food_code:en: 11093
 agribalyse_proxy_food_name:en: Dill, fresh
@@ -73271,6 +73273,7 @@ wikidata:en: Q26686
 < en:Fresh aromatic plants
 en: Fresh dill
 bg: Пресен копър
+da: Frisk dild
 de: frischer Dill
 es: Eneldo fresco
 fr: Aneth fraîche, Aneth frais
@@ -73278,6 +73281,7 @@ hr: Svježi kopar
 lt: Švieži krapai
 nl: Verse dille
 pl: Koper ogrodowy świeży, Koperek świeży, Koper świeży
+sv: Färsk dill
 agribalyse_food_code:en: 11093
 ciqual_food_code:en: 11093
 ciqual_food_name:en: Dill, fresh
@@ -73286,6 +73290,7 @@ ciqual_food_name:fr: Aneth, frais
 < en:Dill
 < en:Frozen aromatic plants
 en: Frozen dill
+da: Frossen dild
 de: gefrorener Dill
 es: Eneldo congelado
 fr: Aneth surgelé
@@ -73293,10 +73298,17 @@ hr: Smrznuti kopar
 lt: Šaldyti krapai
 nl: Bevroren dille
 pl: Koper ogrodowy mrożony, Koperek mrożony, Koper mrożony
+sv: Fryst dill
+
+< en:Frozen dill
+en: Frozen chopped dill
+da: Frossen hakket dild
+sv: Fryst hackad dill
 
 < en:Dill
 < en:Ground dried aromatic plants
 en: Ground dried dill
+da: Malet tørret dild
 de: trocken gemahlener Dill
 es: Eneldo seco molido
 fr: Aneth sèche moulue
@@ -73304,12 +73316,16 @@ hr: Samljeveni suhi kopar
 lt: Džiovinti malti krapai
 nl: Gemalen gedroogde dille
 pl: Koper mielony suszony, Koperek mielony suszony
+sv: Malen torkad dill
 
 < en:Dill
+< en:Dried aromatic plants
 en: Dried dill
+da: Tørret dild
 fr: Aneth séchée
 hr: Sušeni kopar
 pl: Koper suszony, Koperek suszony
+sv: Torkad dill
 agribalyse_proxy_food_code:en: 11060
 agribalyse_proxy_food_name:en: Provence herbs, dried
 agribalyse_proxy_food_name:fr: Herbes de Provence, séchées
